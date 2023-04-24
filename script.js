@@ -1,5 +1,5 @@
-
-const apiKey = "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"; // Replace with your actual API key
+const envi =require("dotenv").config()
+const apiKey = "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"; // Replace with your actual API key
  // Replace with the name of the model you want to use
 
 const requestOptions = {
